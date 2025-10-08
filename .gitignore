@@ -1,0 +1,28 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+*.egg-info/
+
+# VSCode / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dados grandes/privados
+data/raw/
+data/external/
+*.parquet
+*.zip
+*.7z
+*.gz
+
+# Modelos/saídas pesadas
+models/*.pkl
+models/*.joblib
+reports/*.html
+
+# Cache
+.cache/
