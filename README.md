@@ -3,7 +3,6 @@
 This project explores a book-platform dataset using **SQL** to extract insights about **publications, authors, publishers, ratings and user behaviour**.  
 It was developed as part of the **TripleTen Data Analytics Bootcamp**. For easy reproducibility on GitHub, the analysis reads **CSV snapshots** and builds an **in-memory SQLite** database so all queries can be executed with `pd.read_sql`.
 
-📓 **Notebook:** `notebooks/Project_14C_SQL.ipynb`  
 💻 **Repository:** [https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL](https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL)
 
 ---
