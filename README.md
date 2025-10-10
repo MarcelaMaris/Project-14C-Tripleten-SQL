@@ -6,8 +6,9 @@
 ![Data](https://img.shields.io/badge/Data-CSV%20snapshots-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+This project was developed as part of the **Data Analytics Bootcamp at [TripleTen](https://tripleten.com)**.  
 This project explores a book-platform dataset using **SQL** to extract insights about **publications, authors, publishers, ratings and user behaviour**.  
-It was developed as part of the **TripleTen Data Analytics Bootcamp**. For easy reproducibility on GitHub, the analysis reads **CSV snapshots** and builds an **in-memory SQLite** database so all queries can be executed with `pd.read_sql`.
+For easy reproducibility on GitHub, the analysis reads **CSV snapshots** and builds an **in-memory SQLite** database so all queries can be executed with `pd.read_sql`.
 
 💻 **Repository:** [https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL](https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL)
 
